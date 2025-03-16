@@ -109,7 +109,7 @@ class _HomePageState extends State<HomePage> {
                         children: [
                           const Icon(
                             Icons.favorite,
-                            color: Colors.red,
+                            color: Colors.grey,
                             size: 16,
                           ),
                           const SizedBox(width: 4),
